@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Anotações do curso de Introdução ao Git/GitHub
+#primeiro-repositorio-dio
+Anotações e projetos do Bootcamp Carrefour Web Dveloper
